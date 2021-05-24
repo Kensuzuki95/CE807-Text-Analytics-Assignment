@@ -1,6 +1,6 @@
 # CE807-Text-Analytics-Assignment
 
-**
+
 ## Content Information
 
 1. Datasets
@@ -12,4 +12,4 @@
 3. Reseach Paper 
 - A short paper on Topic Modeling and the Accuracy Results of Topic Modeling on the BBC News Dataset. 
 
-**
+
